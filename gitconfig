@@ -1,0 +1,12 @@
+[user]
+        name = beriaanirudh
+        email = anirudh.beria@gmail.com
+[alias]
+        co = checkout
+        br = branch
+        st = status
+        logs = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+        ls = ls-tree HEAD -r
+[core]
+        editor = vim
+
